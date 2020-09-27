@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598024646 source:c:\hangman codeblocks\hangman_full_game\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<bits/stdc++.h>
+
