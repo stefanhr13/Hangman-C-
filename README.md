@@ -4,3 +4,6 @@ I am a beginner to C++ and programming so I am sure there are plenty of ways thi
 Otherwise feel free to run this console application wherever and edit/do anything you like with it.
 Enjoy!
 -
+![Image of Game 1](https://github.com/stefanhr13/Hangman-C-/blob/master/IMG/SS1.png)
+
+![Image of Game 2](https://github.com/stefanhr13/Hangman-C-/blob/master/IMG/SS2.png)
